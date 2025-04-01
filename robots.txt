@@ -1,6 +1,3 @@
 ﻿User-agent: *
 Disallow: /*?*
 Sitemap: https://avtoson.github.io/sitemap.xml
-
-User-agent: Googlebot
-Disallow: /
